@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+  background-color: gray;  /* 背景色 */
+  margin: 0;  /* 余白の大きさ */
+  font-size: 50px;  /* 文字の大きさ */
+}
+
+#layout01 {
+  background-color: red;  /* 背景色 */
+}
+
+#layout02 {
+  background-color: green;  /* 背景色 */
+}
